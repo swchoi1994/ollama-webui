@@ -256,7 +256,7 @@
 													selectedModelfile.title.charAt(0).toUpperCase() +
 													selectedModelfile.title.slice(1)
 											  }`
-											: `Ollama - ${model}`,
+											: `LG CNS - ${model}`,
 										{
 											body: responseMessage.content,
 											icon: selectedModelfile?.imageUrl ?? '/favicon.png'

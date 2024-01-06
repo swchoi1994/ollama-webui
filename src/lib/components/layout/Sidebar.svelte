@@ -78,7 +78,7 @@
 						<img src="/ollama.png" class=" w-5 invert-[100%] rounded-full" />
 					</div>
 
-					<div class=" self-center font-medium text-sm">New Chat</div>
+					<div class=" self-center font-medium text-sm">새로운 대화</div>
 				</div>
 
 				<div class="self-center">

@@ -83,7 +83,7 @@
 				</button>
 			</div>
 			<div class=" flex-1 self-center font-medium text-ellipsis whitespace-nowrap overflow-hidden">
-				{title != '' ? title : 'LG CNS - Ollama Web UI'}
+				{title != '' ? title : 'LG CNS - Research Preview'}
 			</div>
 
 			{#if shareEnabled}

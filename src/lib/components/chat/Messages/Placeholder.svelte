@@ -40,7 +40,7 @@
 								class=" w-20 mb-2 {models.length === 1
 									? 'invert-[10%] dark:invert-[100%]'
 									: 'border-[5px] border-white dark:border-gray-800'}  rounded-full"
-								alt="ollama"
+								alt="LG CNS"
 								draggable="false"
 							/>
 						{/if}
@@ -64,7 +64,7 @@
 					</div>
 				{/if}
 			{:else}
-				What do you want to learn today? How can I help you?
+				LG CNS Research Preview
 			{/if}
 		</div>
 	</div>
