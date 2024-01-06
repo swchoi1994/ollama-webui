@@ -7,7 +7,7 @@
 	import { chatId, modelfiles } from '$lib/stores';
 
 	export let initNewChat: Function;
-	export let title: string = 'Ollama Web UI';
+	export let title: string = 'LG CNS Web UI';
 	export let shareEnabled: boolean = false;
 
 	const shareChat = async () => {
@@ -83,7 +83,7 @@
 				</button>
 			</div>
 			<div class=" flex-1 self-center font-medium text-ellipsis whitespace-nowrap overflow-hidden">
-				{title != '' ? title : 'Ollama Web UI'}
+				{title != '' ? title : 'LG CNS - Ollama Web UI'}
 			</div>
 
 			{#if shareEnabled}

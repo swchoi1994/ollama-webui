@@ -519,7 +519,7 @@
 				</form>
 
 				<div class="mt-1.5 text-xs text-gray-500 text-center">
-					LLMs can make mistakes. Verify important information.
+					Research Preview. LG CNS. LLMs can make mistakes. Verify important information.
 				</div>
 			</div>
 		</div>

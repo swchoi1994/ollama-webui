@@ -64,7 +64,7 @@
 					</div>
 				{/if}
 			{:else}
-				How can I help you today?
+				What do you want to learn today? How can I help you?
 			{/if}
 		</div>
 	</div>
